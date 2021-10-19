@@ -1,0 +1,35 @@
+body, html {
+    background-repeat: no-repeat;
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.opaque {
+    width: 400px;
+    height: 400px;
+    opacity: .85;
+    background-color: white;
+    vertical-align: middle;
+    width: 50%;
+   margin: auto;
+}
+
+.card {
+    text-align: center;
+    padding-top: 15%;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    opacity: .5;
+    color: black;
+    text-align: center;
+    padding-top: 10px;  
+}
+
